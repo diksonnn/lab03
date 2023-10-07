@@ -1,0 +1,8 @@
+C:\Users\denyx\OneDrive\Desktop\Test\chess\bin\Debug\chess.exe.config
+C:\Users\denyx\OneDrive\Desktop\Test\chess\bin\Debug\chess.exe
+C:\Users\denyx\OneDrive\Desktop\Test\chess\bin\Debug\chess.pdb
+C:\Users\denyx\OneDrive\Desktop\Test\chess\obj\Debug\chess.csproj.AssemblyReference.cache
+C:\Users\denyx\OneDrive\Desktop\Test\chess\obj\Debug\chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\denyx\OneDrive\Desktop\Test\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\denyx\OneDrive\Desktop\Test\chess\obj\Debug\chess.exe
+C:\Users\denyx\OneDrive\Desktop\Test\chess\obj\Debug\chess.pdb
